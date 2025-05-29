@@ -1,1 +1,1 @@
-https://www.google.com/imgres?q=difference%20in%20t2.large%20and%20t3.large%20in%20ec2&imgurl=https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2Fda4b9237bacccdf19c0760cab7aec4a8359010b0%2F2018%2F08%2F23%2FT3_2.png&imgrefurl=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Fnew-t3-instances-burstable-cost-effective-performance%2F&docid=1zt7m1B3TaCwdM&tbnid=dWyCbs6CrsKWQM&vet=12ahUKEwiqkrOX98eNAxWpyzgGHae-O5IQM3oECBgQAA..i&w=589&h=301&hcb=2&ved=2ahUKEwiqkrOX98eNAxWpyzgGHae-O5IQM3oECBgQAA
+![image](https://github.com/user-attachments/assets/7db53e9b-cb93-43da-8418-c81c2414d0a4)
